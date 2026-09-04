@@ -28,6 +28,6 @@ The dashboard provides analytical coverage across 10 report pages, including ind
 - **Excel:** Data dictionary and calculation reference.
 
 ## Dashboard Previews
-
-### 1. People Analytics & Member Engagement
 ![People Analytics Page](images/dashboard_page1.png)
+![MEJ Profile](images/dashboard_page2.png)
+![Attention Points](images/dashboard_page3.png)
