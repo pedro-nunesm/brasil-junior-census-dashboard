@@ -2,7 +2,7 @@
 
 This dashboard was developed for **Brasil Júnior (BJ)**, the Confederation of Junior Enterprises in Brazil. 
 
-The objective of the project is to process, analyze, and visualize nationwide census data collected from annual surveys administered to approximately 20,000 junior enterprises operating across more than 270 universities in Brazil.
+The objective of the project is to process, analyze, and visualize nationwide census data collected from annual surveys administered to approximately 1500 junior enterprises operating across more than 270 universities in Brazil.
 
 Structured into **10 interactive pages**, the dashboard delivers end-to-end visibility into ecosystem performance, organizational health, financial drivers, and member engagement metrics.
 
